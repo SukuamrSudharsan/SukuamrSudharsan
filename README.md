@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SukuamrSudharsan
+- 👀 I’m interested in Science & Maths
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Software which minimise the caluclalation of Sience
+- 📫 How to reach me sudharsansukumar2004@gmail.com
